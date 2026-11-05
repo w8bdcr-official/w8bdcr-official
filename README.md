@@ -32,11 +32,11 @@
 | RESOURCE_ID | CLASS | DESCRIPTION | STATUS |
 |---|---|---|---|
 | W8BDCR-Core-Termux | CORE | Modular dev environment for Termux | LIVE |
-| W8BDCR-HermesAgent-Termux | AGENT | Hermes AI agent on Termux | SOON |
-| W8BDCR-OmniRoute-Termux | AGENT | Free AI gateway on Termux | SOON |
+| W8BDCR-Hermes-Own | AGENT | Hermes AI agent on Termux | LIVE |
+| W8BDCR-OmniRoute-Own | AGENT | Free AI gateway on Termux | LIVE |
 | W8BDCR-DeepSeek-Harness-Termux | AGENT | DeepSeek agent harness on Termux | LIVE |
 | W8BDCR-TermuxStylePro | TOOL | Termux terminal styles, 100+ looks | LIVE |
-| W8BDCR-WhatsAppBots | BOT | WhatsApp bots with AI replies | SOON |
+| W8BDCR-WhatsAppBots | BOT | WhatsApp bots with AI replies | LIVE |
 | W8BDCR-Render-OCR | TOOL | OCR service on Render | LIVE |
 | W8BDCR-Vercel-OCR | TOOL | OCR service on Vercel | LIVE |
 | W8BDCR-CasinoBD | WEB | Casino slot game page | LIVE |
