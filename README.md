@@ -35,6 +35,7 @@
 | W8BDCR-Hermes-Own | AGENT | Hermes AI agent on Termux | LIVE |
 | W8BDCR-OmniRoute-Own | AGENT | Free AI gateway on Termux | LIVE |
 | W8BDCR-TermuxStylePro | TOOL | Termux terminal styles, 100+ looks | LIVE |
+| W8BDCR-Termux-Setup | TOOL | Styled Termux in one command | LIVE |
 | W8BDCR-WhatsAppBots | BOT | WhatsApp bots with AI replies | LIVE |
 | W8BDCR-Render-OCR | TOOL | OCR service on Render | LIVE |
 | W8BDCR-Vercel-OCR | TOOL | OCR service on Vercel | LIVE |
